@@ -1,0 +1,3 @@
+com\auy\controller\SimpleController.class
+com\auy\api\SimpleApi.class
+com\auy\config\Swagger2Config.class
